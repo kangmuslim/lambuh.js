@@ -1,0 +1,2 @@
+# lambuh.js
+lambuh
